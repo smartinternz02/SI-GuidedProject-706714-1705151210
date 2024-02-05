@@ -3,7 +3,7 @@
    <description></description>
    <name>i_fa fa-bars</name>
    <tag></tag>
-   <elementGuidId>090ba35b-3967-4296-b284-b890b811623e</elementGuidId>
+   <elementGuidId>dcc759fa-db72-43ca-ac3c-b61352c4be27</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>c2caaad8-bc0c-420e-bb09-7acc51d5829d</webElementGuid>
+      <webElementGuid>8ee86088-0c9b-4d21-bef7-c2b277e87d38</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fa fa-bars</value>
-      <webElementGuid>efdf049a-e067-4512-b298-d385f9da3302</webElementGuid>
+      <webElementGuid>50c256a1-6047-43aa-9894-aa3d2894d04c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;menu-toggle&quot;)/i[@class=&quot;fa fa-bars&quot;]</value>
-      <webElementGuid>53fed61b-a01f-42c0-b582-5a8bebcd18b4</webElementGuid>
+      <webElementGuid>e074bade-21ed-4ae0-9c9f-180072c287b8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='menu-toggle']/i</value>
-      <webElementGuid>cdb8dce0-435a-4546-ab26-ebe2f90a8311</webElementGuid>
+      <webElementGuid>487d1eec-38de-42fe-9035-574e3eb65a34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//i</value>
-      <webElementGuid>a94d0961-41d9-4658-b12d-32cb42f77b8d</webElementGuid>
+      <webElementGuid>f77722bd-09b8-451d-a31a-a20229c2ad73</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
