@@ -1,2 +1,2 @@
 # katalon-platform-1
-Demo
+CURA HEALTH SERVICE PROJECT
